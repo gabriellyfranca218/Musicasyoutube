@@ -1,35 +1,36 @@
-
- <body> 
- 
- <header>musicas do youtube</header>
+  <header>musicas do youtube</header>
 <h1>Quer ideias de musicas boas no youtube? aqui estão algumas opções:</h1>
-BRUNO MARS
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kPa7bsKwL-c?si=zbc_ONFDIn1GVZEV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ekzHIouo8Q4?si=XCbz57DA--NZ_bqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>BRUNO MARS</p>
 
-ARIANA GRANDE
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tcYodQoapMg?si=YrhG04CQVgP3ClHm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kPa7bsKwL-c?si=hkidtcjccaLxxD40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kN0iD0pI3o0?si=AbvzJ5yXE0u5N7WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekzHIouo8Q4?si=e5DmhdzomR29on5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-TAYLOR SWIFT
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ic8j13piAhQ?si=YY-sxAs7Vi5iuItU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>ARIANA GRANDE</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xg3vE8Ie_E?si=uDMcYAqto7Q8gdS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tcYodQoapMg?si=QP3LeLKaPszMnOtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-SELENA GOMEZ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QYh6mYIJG2Y?si=dQKAGtxOV626ItvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nJG5CWsne8E?si=-dYehYqeFH_XIGHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>TAYLOR SWIFT</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EgT_us6AsDg?si=H61gYsfKVsbZEzWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-ORhEE9VVg?si=pqQHXwso-wCyy8M0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-OLIVIA RODRIGO
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cii6ruuycQA?si=P6DEvw4MS7Lc0zYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VuNIsY6JdUw?si=o7SMmEV9I0fYpHLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gNi_6U5Pm_o?si=FY_wL2f6rUosPmN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>SELENA GOMEZ</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nJG5CWsne8E?si=tnMKQzMGbPXywHtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-D1EB74Ckg?si=iIGOKHs-9cNMVVKK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+<p>OLIVIA RODRIGO</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cii6ruuycQA?si=9G_fMsv8gnztWZcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmDBbnmKpqQ?si=XfKqe-emLn2pfUH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </body>
 
 
