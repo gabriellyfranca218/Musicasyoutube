@@ -4,5 +4,6 @@ body {
 }
 
 header{
-    border:solid 1px lightpink;
+    border-bottom:solid 1px lightpink;
+    font-sive:30px;
 }
