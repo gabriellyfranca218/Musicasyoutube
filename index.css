@@ -1,17 +1,31 @@
 body {
-    color:rebeccapurple;
-     background:lightblue;
+  background-color:rgb(162, 232, 224);
+color:#f2b7eb;
 }
-
-header{
-    border-bottom:solid 1px lightpink;
-    font-sive:30px;
+img {
+  height: 200px;
 }
-
-section{
-  background: rgb(184, 156, 213);
-
+.categoria-videos img{
+  opacity: 0.5;
 }
-
+.categoria-videos img:hover {
+  opacity: 1.0;
+  border: 5px solid rgb(248, 203, 253);
+}
+header {
+    border-bottom: solid 2px rgb(248, 203, 253);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(248, 203, 253);
+}
+.categoria-videos{
+  display:flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
     
