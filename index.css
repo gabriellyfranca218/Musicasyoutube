@@ -3,6 +3,7 @@
 body {
     color:rebeccapurple;
      background:lightblue;
+     font-family: "Epunda Slab", serif;
 }
 
 header{
@@ -19,3 +20,10 @@ padding-top: 80px;
 }
 
 
+h1{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
